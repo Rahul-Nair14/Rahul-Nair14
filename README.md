@@ -1,4 +1,4 @@
-![Unity Game Development](https://github.com/Rahul-Nair14/Rahul-Nair14/blob/main/RN.jpg)
+![Unity Game Development](https://github.com/Rahul-Nair14/Rahul-Nair14/blob/main/UNITY%20GAME%20DEVELOPMENT%20(1).gif)
 
 # Rahul Nair
 I’m currently a Computer science student at the PSG College of Arts and Science. I started making games as a hobby, then it became a passion and now I view it as my career.
