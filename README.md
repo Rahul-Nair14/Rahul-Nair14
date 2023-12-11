@@ -7,7 +7,7 @@ I’m currently a Computer science student at the PSG College of Arts and Scienc
 
 * Unity and C#
 * Java
-* HTML and CSS
+* Android Development
 * Blender
 
 - 🔭 I’m currently working on creating a career out of a passion for video games 
