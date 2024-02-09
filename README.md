@@ -1,7 +1,6 @@
-![Unity Game Development](https://github.com/Rahul-Nair14/Rahul-Nair14/blob/main/UNITY%20GAME%20DEVELOPMENT%20(1).gif)
 
 # Rahul Nair
-I’m currently a Computer science student at the PSG College of Arts and Science. I started making games as a hobby, then it became a passion and now I view it as my career.
+I’m currently a Computer science student at the PSG College of Arts and Science. Made a few games and a few apps. Havent published anything yet. Continuous learning
 
 ## Skills and Experience
 
@@ -10,9 +9,9 @@ I’m currently a Computer science student at the PSG College of Arts and Scienc
 * Android Development
 * Blender
 
-- 🔭 I’m currently working on creating a career out of a passion for video games 
-- 👯 I’m looking to collaborate on fun and challenging game development projects using the Unity Engine and C#. 
-- 💬 Ask me about Unity Game Development, the Marvel Cinematic Universe and European Football 
+- 🔭 I’m currently working on creating a career out of a passion for software and games.
+- 👯 I’m looking to collaborate on fun and challenging development projects using Android, Unity or .Net
+- 💬 Ask me about Unity Game Development, the nuances of learning the piano and my multi-lingual exploits 
 - 📫 How to reach me: Email: rahulnair14032002@gmail.com (or) rahul314nair@gmail.com 
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: I have listened to songs from 1000 different artists this year. 
