@@ -1,6 +1,6 @@
 
 # Rahul Nair
-I’m currently a Computer science student at the PSG College of Arts and Science. Made a few games and a few apps. Havent published anything yet. Continuous learning
+I’m currently a Computer science student at the PSG College of Arts and Science. Made a few games and a few apps.
 
 ## Skills and Experience
 
