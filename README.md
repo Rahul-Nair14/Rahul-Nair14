@@ -1,13 +1,14 @@
 
 # Rahul Nair
-I’m currently a Computer science student at the PSG College of Arts and Science. Made a few games and a few apps.
+I’m currently a Software dev working at a finTech crafting solutions using React and .Net
 
 ## Skills and Experience
 
-* Unity and C#
-* Java
-* Android Development
-* Blender
+* Unity
+* .NET development
+* React
+* SQL
+* A bit of Android and Blender
 
 - 🔭 I’m currently working on creating a career out of a passion for software and games.
 - 👯 I’m looking to collaborate on fun and challenging development projects using Android, Unity or .Net
